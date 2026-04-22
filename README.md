@@ -853,7 +853,7 @@ This project is licensed under the MIT License.
 
 **Ayush Shard Singh**
 
-- GitHub: [(https://github.com/BONGCHII/)]
+- GitHub: https://github.com/AyushSingh-21
 
 ## 🙏 Acknowledgments
 
